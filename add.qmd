@@ -3,7 +3,7 @@
 These are lines to test the add.qmd file.
 
 Long Line:
-The concept of artificial intelligence has evolved significantly over the years. Initially, AI was perceived as a field of study that aimed to create machines capable of performing tasks that required human intelligence. These tasks included problem-solving, decision-making, speech recognition, and more. As technology advanced, so did the capabilities of AI systems. Today, AI is integrated into various aspects of our daily lives, from virtual assistants on our smartphones to complex algorithms powering recommendation systems and autonomous vehicles. The continuous development of AI continues to shape the way we interact with technology and the world around us.
+The idea of artificial intelligence has evolved significantly over the years. Initially, AI was perceived as a field of study that aimed to create machines capable of performing tasks that required human intelligence. These tasks included problem-solving, decision-making, speech recognition, and more. As technology advanced, so did the capabilities of AI systems. Today, AI is integrated into various aspects of our daily lives, from virtual assistants on our smartphones to complex algorithms powering recommendation systems and autonomous vehicles. The continuous development of AI continues to shape the way we interact with technology and the world around us.
 
 Short Line:
-The future of artificial intelligence is unknown.
+The future of artificial intelligence is known.
