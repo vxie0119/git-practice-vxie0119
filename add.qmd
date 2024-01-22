@@ -1,3 +1,0 @@
-# Testing 
-
-These are lines to test the add.qmd file.
