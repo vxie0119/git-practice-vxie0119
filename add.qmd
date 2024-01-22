@@ -7,3 +7,6 @@ The idea of artificial intelligence has evolved significantly over the years. In
 
 Short Line:
 The future of artificial intelligence is known.
+
+Last commit update:
+HW01 Status complete
